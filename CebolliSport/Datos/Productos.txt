@@ -1,0 +1,17 @@
+URL | MODELO | MARCA | TALLA | COLOR | TIPO | CANTIDAD | GENERO | PRECIO UNIDAD |
+https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/6b4b0756-e5bb-4aef-bd55-a477fc27616d/AIR+JORDAN+1+MID.png|Air Jordan 1 Mid|Nike|34|Cafe|Calzado|2|Hombre|450000.0
+https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/6b4b0756-e5bb-4aef-bd55-a477fc27616d/AIR+JORDAN+1+MID.png|Air Jordan 1 Mid|Nike|37|Cafe|Calzado|0|Hombre|450000.0
+https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/abacde4b-836a-401d-acca-95e3364d95ac/AIR+FORCE+1+%28GS%29.png|Nike Air Force 1|Nike|40|Blanco|Calzado|9|Unisex|400000.0
+https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/dd019547-87b1-45cb-80b5-1fd2290e1c24/LEBRON+XXII+BW.png|Lebron Xxii|Nike|41|Verde|Calzado|4|Hombre|450000.0
+https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/dd019547-87b1-45cb-80b5-1fd2290e1c24/LEBRON+XXII+BW.png|Lebron Xxii|Nike|40|Verde|Calzado|6|Hombre|500000.0
+https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/dd019547-87b1-45cb-80b5-1fd2290e1c24/LEBRON+XXII+BW.png|Lebron Xxii|Nike|34|Verde|Calzado|0|Hombre|400000.0
+https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/2771fb85-260f-40a3-a29a-bd87b15d5ef7/M+NRG+NOCTA+CS+HOODIE+FLC.png|Nocta|Nike|M|Gris|Ropa|5|Unisex|90000.0
+https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/2771fb85-260f-40a3-a29a-bd87b15d5ef7/M+NRG+NOCTA+CS+HOODIE+FLC.png|Nocta|Nike|UNICA|Gris|Ropa|0|Unisex|110000.0
+https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/084335/01/fnd/PNA/fmt/png/Bal%C3%B3n-de-f%C3%BAtbol-KING|Balón Orbita 6|Puma|SIN TALLA|Naranja|Accesorio|2|-|350000.0
+https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/abacde4b-836a-401d-acca-95e3364d95ac/AIR+FORCE+1+%28GS%29.png|Nike Air Force 1|Nike|41|Blanco|Calzado|0|Unisex|700000.0
+https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/abacde4b-836a-401d-acca-95e3364d95ac/AIR+FORCE+1+%28GS%29.png|Nike Air Force 1|Nike|34|Blanco|Calzado|1|Unisex|340000.0
+https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/2771fb85-260f-40a3-a29a-bd87b15d5ef7/M+NRG+NOCTA+CS+HOODIE+FLC.png|Nocta|Nike|XS|Gris|Ropa|2|Unisex|80000.0
+https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/2771fb85-260f-40a3-a29a-bd87b15d5ef7/M+NRG+NOCTA+CS+HOODIE+FLC.png|Nocta|Nike|L|Gris|Ropa|3|Unisex|120000.0
+https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/6b4b0756-e5bb-4aef-bd55-a477fc27616d/AIR+JORDAN+1+MID.png|Air Jordan 1 Mid|Nike|42|Cafe|Calzado|0|Hombre|500000.0
+https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/abacde4b-836a-401d-acca-95e3364d95ac/AIR+FORCE+1+%28GS%29.png|Nike Air Force 1|Nike|37.5|Blanco|Calzado|1|Unisex|120000.0
+https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/6b4b0756-e5bb-4aef-bd55-a477fc27616d/AIR+JORDAN+1+MID.png|Air Max Plus|Nike|38|Cafe|Calzado|21|Hombre|420000.0

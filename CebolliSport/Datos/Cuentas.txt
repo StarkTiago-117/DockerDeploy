@@ -1,0 +1,11 @@
+CEDULA | NOMBRE | CORREO | CELULAR | CLIENTE
+1054869720|Juan Felipe Gutierrez De Leon|juancho.gutierrez.deleon@gmail.com|3051236548|Cliente
+1068794231|Raul Marcos Sanchez Cortez|raul.marcos.cortez@outlook.com|3165487976|Cliente
+2879462|Ester Julia Prieto Bustamante|ester_prieto1505@yahoo.com|3002557971|Cliente
+1976432|Luis Armando Gonzales Castañeda|armando8216-castaneda17@gmail.com|3214897642|Cliente
+68459725|Fernando Mejia Escobar|fercho%escobar501@outlook.com|3235687122|Cliente
+1081246487|Aaron Smith Brown|aaron.smith_b@hotmail.com|3000554648|Cliente
+57491352|Sebastian Ramirez Montealegre|sebas.montealegre@yahoo.com|3187946502|Cliente
+1056487613|Tomas Andres Trujillo Lopez|trujillo_lopez-andres86@gmail.com|3247972135|Cliente
+258794622|Laura De Leon|lau.garcia1506@outlook.com|3002567879|Cliente
+1000000000|Camila Arias Saldarriaga|camixx23as@gmail.com|3014876522|Cliente

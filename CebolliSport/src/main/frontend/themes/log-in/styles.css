@@ -1,0 +1,22 @@
+@import url('./main-layout.css');
+@import url('./views/cuentas-usuarios-view.css');
+
+
+/*This controls the colors of: the shading of the tabs, color of lumo primary buttons and checkboxes in the grid*/
+:root {
+  --lumo-primary-color: #685041; /* Brown */
+  --lumo-primary-color-50pct: rgba(104, 80, 65, 0.5);
+  --lumo-primary-color-10pct: rgba(104, 80, 65, 0.2);
+
+  --vaadin-button-background: rgba(104, 80, 65, 0.2);
+  --vaadin-button-text-color: #685041; 
+
+  --vaadin-input-field-focused-label-color: #685041;
+
+}
+
+/*Controls the color of the header of the grid when it has active sorters*/
+vaadin-grid-sorter[direction] {
+color: #685041;
+font-weight: bold;
+}

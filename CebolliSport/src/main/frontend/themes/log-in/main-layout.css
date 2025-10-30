@@ -1,0 +1,33 @@
+header nav a:any-link {
+  text-decoration: none;
+  padding: 0 var(--lumo-space-s);
+  border-radius: var(--lumo-border-radius-m);
+  outline: 0;
+}
+
+header nav a:hover {
+  color: var(--lumo-header-text-color);
+}
+
+header nav a:active {
+  background-color: var(--lumo-contrast-5pct);
+}
+
+header nav a:focus-visible {
+  box-shadow: 0 0 0 2px var(--lumo-primary-color-50pct);
+}
+
+/*Controls the color of the Tab Icons*/
+header nav a[highlight] vaadin-icon {
+  color: var(--lumo-primary-color);
+}
+
+/*Controls the color of the Tab highlight*/
+header nav a[highlight] {
+  background-color: var(--lumo-primary-color-10pct);
+}
+
+/*Controls the background color of the header*/
+header {
+  background-color: #e8ba9e7e; /*OPCION1: #4168697e      OPCION2: #a0bdbe7e      OPCION3: #e8ba9e7e*/
+}
