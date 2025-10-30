@@ -10,7 +10,7 @@ public class GestionMenu_Back {
     // RUTAS DE LOS ARCHIVOS DE DATOS
     public static String RUTA_DATA_PRODUCTO_ESC = "Datos/Productos.txt";
     
-    public static String RUTA_DATA_PRODUCTO_LEER = "Datos\\Productos.txt";
+    public static String RUTA_DATA_PRODUCTO_LEER = "Datos/Productos.txt";
     
     public static String RUTA_DATA_PRODUCTO_TEMPORAL = "Datos/tempProductos.txt";
     
